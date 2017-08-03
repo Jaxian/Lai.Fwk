@@ -12,7 +12,7 @@ namespace Lai.Fwk.Configuration
     /// </summary>
     public static class Settings
     {
-        public static String Domain { get { return "Albistur"; } }
+        public static String Domain { get { return "Dominio"; } }
         public static string StrNombreSistema()
         {
             return ConfigurationManager.AppSettings.Get("NombreSistema");
