@@ -6,6 +6,9 @@ using System.Web;
 
 namespace Lai.Fwk.Notific
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class Mail
     {
         public static void send(string desde, string contrasenia,

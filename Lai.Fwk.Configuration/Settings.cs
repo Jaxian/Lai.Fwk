@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Lai.Fwk.Configuration
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class Settings
     {
         public static String Domain { get { return "Albistur"; } }

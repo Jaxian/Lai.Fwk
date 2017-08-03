@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Web;
 
+/// <summary>
+/// 
+/// </summary>
 public static class LabelHelper
 {
     public static System.Web.UI.WebControls.Label findControlLabel(this System.Web.UI.Control item, string idControl)

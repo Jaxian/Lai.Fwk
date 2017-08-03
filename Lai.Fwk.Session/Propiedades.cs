@@ -8,6 +8,9 @@ using System.Text;
 
 namespace Lai.Fwk.Session
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Propiedades
     {
         public static string UserName

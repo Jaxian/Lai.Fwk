@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 
+/// </summary>
 public static class IntHelper
 {
     public static int AsInt(this object item, int valor = default(int))

@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 
+/// </summary>
 public static class DateTimeHelper
 {
     public static DateTime AsDateTime(this object item, DateTime valor = default(DateTime))

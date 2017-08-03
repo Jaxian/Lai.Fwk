@@ -3,6 +3,9 @@ using System.Configuration;
 
 namespace Lai.Fwk.Configuration
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class SettingsMail
     {
         public static String Pass { get { return ConfigurationManager.AppSettings["Pass"]; } }

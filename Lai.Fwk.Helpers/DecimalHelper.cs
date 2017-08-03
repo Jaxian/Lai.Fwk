@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 
+/// </summary>
 public static class DecimalHelper
 {
     public static decimal AsDecimal(this object item, decimal valor = default(decimal))

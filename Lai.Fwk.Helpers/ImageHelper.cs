@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Web;
 
+/// <summary>
+/// 
+/// </summary>
 public static class ImageHelper
 {
     public static System.Drawing.Image byteArrayToImage(this object item, byte[] byteArrayIn = default(byte[]))

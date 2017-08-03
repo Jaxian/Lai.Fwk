@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 
+/// </summary>
 public static class DoubleHelper
 {
     public static double AsDouble(this object item, double valor = default(double))

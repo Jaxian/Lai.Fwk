@@ -6,6 +6,9 @@ using System.Text;
 
 namespace Lai.Fwk.EntityFrameWork
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IGenericDataRepository<T> where T : class
     {
         //string Error { get; set; }

@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Web;
 
+/// <summary>
+/// 
+/// </summary>
 public static class CheckBoxHelper
 {
     public static System.Web.UI.WebControls.CheckBox findControlCheckBox(this System.Web.UI.Control item, string idControl)

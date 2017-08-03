@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Lai.Fwk.Cryptography
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Encript
     {
         private string key;

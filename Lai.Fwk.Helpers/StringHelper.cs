@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Web;
 
+/// <summary>
+/// 
+/// </summary>
 public static class StringHelper
 {
     public static string AsAnioMesDia(this object item, DateTime valor = default(DateTime))

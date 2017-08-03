@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Web;
 
+/// <summary>
+/// 
+/// </summary>
 public static class TextBoxHelper
 {
     public static System.Web.UI.WebControls.TextBox findControlTextBox(this System.Web.UI.Control item, string idControl)

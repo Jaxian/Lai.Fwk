@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 
+/// </summary>
 public static class TimeSpanHelper
 {
     public static TimeSpan AsTimeSpan(this object item, TimeSpan valor = default(TimeSpan))

@@ -8,6 +8,9 @@ using System.Linq.Expressions;
 
 namespace Lai.Fwk.EntityFrameWork
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class GenericDataRepository<T> : IGenericDataRepository<T> where T : class
     {
         private DbContext context;

@@ -2,6 +2,9 @@
 
 namespace Lai.Fwk.Logs
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public static class Log
     {
         public static void registerLog(string log)
