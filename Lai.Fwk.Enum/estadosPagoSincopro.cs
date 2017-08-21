@@ -1,9 +1,9 @@
 ﻿namespace Lai.Fwk.Enumeradores
 {
     /// <summary>
-    /// 
+    /// Enumerador General de Estados de Pago, Cambio en nomenclatura a CamelCase
     /// </summary>
-    public enum estadosPagoSincopro
+    public enum EstadosPagoSinCopro
     {
         Pagado = 80,
         Pendiente = 81,
